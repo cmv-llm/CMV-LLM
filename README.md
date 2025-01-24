@@ -1,19 +1,8 @@
-# CMV-LLM: Aligning Language Models with China’s Mainstream Values
+# CMV-LLM: China's mainstream values large language model
 
 ## Overview
 
-CMV-LLM is a large language model designed to better align with China’s mainstream values. Large language models (LLMs) often exhibit significant biases, which can cause them to generate content misaligned with the values of different regions or nations. This project aims to address this issue by fine-tuning an existing LLM on carefully curated large-scale Chinese datasets that reflect the national mainstream ideology and values.
-
-This model represents an important step towards aligning language models with the ideological stances of specific countries, offering a new approach for building more regionally aligned AI systems.
-
-## Key Features
-
-- **Alignment with National Values:** CMV-LLM is fine-tuned to generate content that more accurately reflects China's mainstream values, ensuring that outputs are ideologically aligned.
-- **Large-Scale Chinese Datasets:** We curated and used a vast collection of datasets from Chinese sources to fine-tune the model.
-- **Evaluation on National Values Dataset:** We validated the model's alignment using a specialized national values assessment dataset, comparing its performance with several other popular LLMs.
-- **Public Access:** Both the training datasets and the fine-tuned CMV-LLM model are publicly available for research and use.
-
-## Model Performance
+Existing large language models often exhibit significant value bias, making them misaligned with the mainstream values of their respective nations. To address this issue, we explore how to align a large language model's ideological stance with their national mainstream values. We introduce CMV-LLM, a model that aligns with China's mainstream values, by carefully curating large-scale Chinese datasets and fine-tuning. To validate its effectiveness, we evaluate the model using a national values assessment dataset, comparing it with several popular LLMs. The results demonstrate that our CMV-LLM generates content more accurately reflecting China's mainstream values, providing a novel approach and practical insights for building large language models aligned with national stances. 
 
 The CMV-LLM has been evaluated against several popular large language models, demonstrating improved performance in generating content that aligns with China’s national values. Our results indicate that CMV-LLM produces more ideologically consistent outputs when compared to standard LLMs.
 
